@@ -39,10 +39,9 @@ Glass Houses contains themes of parental wounds, trauma, and complicated family 
 ### Credits
 
 - Created by Isidore & Mercer: a human-AI creative duo
-  - Images: Stable Diffusion + paint.net; sutemo's "Female Character Sprite for Visual Novel" & "Female Mature Character Sprite for VN" packs referenced for proportions and design inspiration
-- Audio: Suno + audacity; used under non-commercial license
-- Engine: Ren'Py
-- Released publicly under CC BY-NC-SA license
+- **Images**: Stable Diffusion + paint.net; sutemo's "[Female Character Sprite for Visual Novel](https://sutemo.itch.io/female-character)" & "[Female Mature Character Sprite for VN](https://sutemo.itch.io/female-mature-anime-sprite)" packs referenced for proportions and design inspiration
+- **Audio**: Suno + audacity; used under non-commercial license
+- **Engine**: Ren'Py
 
 ### AI Disclosure
 
